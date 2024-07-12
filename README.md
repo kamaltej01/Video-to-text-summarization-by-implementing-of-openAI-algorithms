@@ -1,0 +1,1 @@
+# Video-to-text-summarization-by-implementing-of-openAI-algorithms
